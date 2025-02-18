@@ -29,4 +29,4 @@ Enter a number
 -4
 -4 is negative
 -4 is even
-![image](https://github.com/user-attachments/assets/66ff3af8-002d-49f2-9f72-b20ba5fa11bf)
+![image](https://github.com/user-attachments/assets/c39bd8d0-a977-4aaf-b3f9-65a3302f260b)
